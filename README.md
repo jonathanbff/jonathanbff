@@ -1,7 +1,7 @@
 ### Hi there 👋
--🔭 I’m currently working: on the universe of data by using Machine Learning models such as Regressions and Neural Networks and also having some new challenges with blockchain and cryptocurrencies.
--🌱 I’m currently learning: Deep Learning Models, Blockchain methods and Natural Language Processing
--⚡ Fun fact: I do love to be an entrepreneur in the future, and I'm already working to study a lot of business samples, digital marketing, and designer to be able to create a successful startup one day
+* 🔭 I’m currently working: on the universe of data by using Machine Learning models such as Regressions and Neural Networks and also having some new challenges with blockchain and cryptocurrencies.
+* 🌱 I’m currently learning: Deep Learning Models, Blockchain methods and Natural Language Processing
+* ⚡ Fun fact: I do love to be an entrepreneur in the future, and I'm already working to study a lot of business samples, digital marketing, and designer to be able to create a successful startup one day
 <!--
 **jonathanbff/jonathanbff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
