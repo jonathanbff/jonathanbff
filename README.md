@@ -6,5 +6,5 @@
 * 🌱 I’m currently learning: Deep Learning Models, Blockchain methods and Natural Language Processing
 * ⚡ Fun fact: I do love to be an entrepreneur in the future, and I'm already working to study a lot of business samples, digital marketing, and designer to be able to create a successful startup one day
 * 📫 Studing Molecular Science at University of São Paulo (USP)
-<!--
+* Acess my web site curriculum: <a href="https://jonathanbff.github.io">Site (pt-br)</a>./<!--
 **jonathanbff/jonathanbff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
