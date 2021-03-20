@@ -7,4 +7,7 @@
 * ⚡ Fun fact: I do love to be an entrepreneur in the future, and I'm already working to study a lot of business samples, digital marketing, and designer to be able to create a successful startup one day
 * 📫 Studing Molecular Science at University of São Paulo (USP)
 * Acess my web site curriculum(https://jonathanbff.github.io/)
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/214envd5dahunkw4x7laytx6i)
+
  <!--
