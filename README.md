@@ -6,8 +6,6 @@
 
 * 🌱 I’m currently working with: LLMs, Deep Learning Models, Computer Vision, Data Science and Natural Language Processing
 * 📫 Ai Engineer 
-* Acess my web site curriculum(https://jonathanbff.github.io/)
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/214envd5dahunkw4x7laytx6i)
 
  <!--
